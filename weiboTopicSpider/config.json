@@ -1,0 +1,18 @@
+{
+    "user_id_list": [],
+    "filter": 1,
+    "since_date": "2019-12-30",
+    "write_mode": ["mysql"],
+    "original_pic_download": 0,
+    "retweet_pic_download": 0,
+    "original_video_download": 0,
+    "retweet_video_download": 0,
+    "cookie": "ALF=1586489600; SCF=AmYj8uPfxFJ7f_p56PU6wo21kcOPSCb3zt0WCulJqPWQsmr5r0yTQvu7_Uxak_hgfc9AK3gDQCwNhLD_KhURj-Q.; SUB=_2A25zbCxRDeRhGeBL4lQV9CbEyDqIHXVQrrQZrDV6PUNbktANLXPYkW1NRqgZKS_tqprqUfhDs5rbxt_wVhh4dgDf; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9WhfgbcxNB7bOiEB7.aAyBVB5JpX5KMhUgL.Foqf1KqXShnRe0q2dJLoI0zLxK-L1hnL1hMLxKMLBoeL1K-LxKnL1KnLBonLxKML1K.LB.BLxKMLBoeL1Kq0eKeXSntt; SUHB=0Ry62jCgkcRRGu; SSOLoginState=1583897601; _T_WM=2a90e4d598debe9d2c48869426631d85",
+    "mysql_config": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "root",
+        "password": "root",
+        "charset": "utf8mb4"
+    }
+}
